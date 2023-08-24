@@ -66,19 +66,14 @@ The first part of the course was devoted to studying and solving problems on the
 
      Working with creating and converting PDF documents
 
-  - *4.2 Basic reports*
+- *4.2 Basic reports*
 
      Create reports in HTML and convert them to PDF
 
-  - *4.3 Report Generation*
+- *4.3 Report Generation*
 
      Working with a template engine and automated reporting
 
-  - *4.4 Email sending and integration*
+- *4.4 Email sending and integration*
 
      Working with sending mail and running a scheduled task
-
-
-```python
-print('Hello,  world')
-```
