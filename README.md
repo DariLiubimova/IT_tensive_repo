@@ -45,6 +45,7 @@ The first part of the course was devoted to studying and solving problems on the
 
 - *3.1 Matplotlib Basics*
    Selecting and building a visualization for data
+   ![](repo/p.3/3.1.png)
   
 - *3.2 Visualization of dependencies*
 
