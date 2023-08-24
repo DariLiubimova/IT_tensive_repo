@@ -50,6 +50,8 @@ The first part of the course was devoted to studying and solving problems on the
 - *3.2 Visualization of dependencies*
 
      Working with seaborn and building relationships between data
+  ![](repo/p.3/3.2.png)
+  ![](repo/p.3/3.2.2.png)
 - *3.3 Time series*
 
      Working with chronological data series and building candlestick charts
