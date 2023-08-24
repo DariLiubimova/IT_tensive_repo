@@ -51,13 +51,15 @@ The first part of the course was devoted to studying and solving problems on the
 
      Working with seaborn and building relationships between data
   ![](repo/p.3/3.2.png)
-  ![](repo/p.3/3.2.2.png)
+  ![](repo/p.3/3.22.png)
 - *3.3 Time series*
 
      Working with chronological data series and building candlestick charts
+    ![](repo/p.3/3.3.png)
 - *3.4 Geo-data and cartograms*
 
      Working with geo-data and creating background cartograms
+    ![](repo/p.3/3.4.png)
 
 **Part 4: Reporting and Automation**
 - *4.1 Working with PDF*
