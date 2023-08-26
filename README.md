@@ -9,10 +9,10 @@ The first part of the course was devoted to studying and solving problems on the
 + *1.1 numpy and pandas*
 
      Working with data via pandas and importing data from text files
-  ''' python
+  ```python
   import pandas as pd
 data_1=pd.read_csv('https://video.ittensive.com/python-advanced/data-5283-2019-10-04.utf.csv', delimiter=';')
-  ''' 
+  ```
 
 + *1.2 Indexes and frame merging*
 
