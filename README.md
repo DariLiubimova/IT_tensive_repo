@@ -146,7 +146,7 @@ PDF = canvas.Canvas("title.pdf", pagesize = pagesizes.A4)
 
 - *4.2 Basic reports*
 
-     Create reports in HTML and convert them to 
+     Create reports in HTML and convert them to PDF
 ```python
 import pandas as pd
 import pdfkit
