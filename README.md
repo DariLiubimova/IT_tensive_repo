@@ -22,6 +22,15 @@ data_1=pd.read_csv('https://video.ittensive.com/python-advanced/data-5283-2019-1
 + *1.3 Filtering and modifying data*
 
      Applying filtering and transforming data in frames
+
+  ``` python
+  data=pd.read_csv('https://video.ittensive.com/python-advanced/data-9753-2019-07-25.utf.csv', delimiter=';')
+data=data[['Year', 'UnemployedDisabled','UnemployedTotal']]
+data=data.set_index('Year')
+data['Procent']=round(data['UnemployedDisabled']*100/data['UnemployedTotal'], 1)
+print(data.index [data['Procent']<2 ].tolist ()[0])
+```
+
 + *1.4 Linear Regression*
      Making predictions on data with pandas
      
