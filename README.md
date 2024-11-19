@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 ## The result of training on the ittensive.com platform. Advanced Python Course
-### student Lyubimova D.A.
+### Lyubimova D.A.
 ___
 **Part 1: Data Analysis**
 
